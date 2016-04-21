@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int a;
         a =10;
+        String str = "sdfds";
     }
 }
